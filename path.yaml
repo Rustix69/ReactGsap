@@ -1,0 +1,10 @@
+Basic React App 
+Tailwind CSS
+Create React App
+Download images
+Make images in array
+Create canvas component
+Load first 150 images and show in canvas
+Animate the canvas
+Make canvas Dynamic so that it can loads 150 images from desired index
+Reuse the canvas component to create a new canvas as many times as you want
